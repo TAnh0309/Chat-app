@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="password">Password</string>
+    <string name="add_image">Add Image</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_ini">Sign In</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="forget_password">forget password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="or">Or</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_width_google">Login with Google</string>
+    <string name="register">REGISTER</string>
+    <string name="previous">PREVIOUS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log out</string>
+    <string name="mode_theme">Mode theme</string>
+    <string name="type_a_message">Type a message ...</string>
+    <string name="number_phone">Number Phone</string>
+    <string name="settings">Settings</string>
+    <string name="trust_your_feelings_be_a_good_human_beings">Trust your feelings ,be a good human beings</string>
+    <string name="chat_settings">Chat settings</string>
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="privacy_and_security">Privacy and security</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="we_need_your_mobile_number_to_verify_your_account_and_to_be_able_to_get_in_touch">We need your mobile number to verify your account and to be able to get in touch</string>
+    <string name="my_mobile_number_is">My Mobile Number is</string>
+    <string name="check_your_sms_messages_we_have_sent_your_pin_at_0396694769">Check your SMS messages , we have sent your pin at + 0396694769</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="theme">Theme</string>
+</resources>
